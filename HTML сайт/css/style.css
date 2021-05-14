@@ -1,0 +1,154 @@
+
+.osn {
+  background:url("jpeg/fon.jpg")
+  no-repeat center;
+  padding: 10px;
+  font-family: Georgia;
+  text-shadow: 1px 1px black;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+
+}
+nav {
+  text-align: center;
+
+}
+.one {
+  background:url("jpeg/fon.jpg")
+  no-repeat center;
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+  padding: 0px 133px 0px 133px;
+
+}
+
+a:hover {
+  color: purple;
+  text-decoration: none;
+}
+img {
+  width: 300px;
+  padding: 15px;
+}
+footer {
+  text-align: center;
+  background:url("jpeg/fon.jpg")
+  no-repeat center;
+  padding:20px;
+  font-family: Georgia;
+  color: white;
+  text-shadow: 1px 1px black;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+.masha {
+  background:url("jpeg/haski.jpg");
+  padding: 10px;
+  font-family: Georgia;
+  text-shadow: 1px 1px black;
+  color: Gold;
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+
+}
+.roma {
+  background:url("jpeg/football.jpg") bottom;
+  padding: 10px;
+  font-family: Georgia;
+  text-shadow: 1px 1px black;
+  color: lightgreen;
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+
+}
+.andrey {
+  background:url("jpeg/footballam.jpg") center;
+  padding: 10px;
+  font-family: Georgia;
+  text-shadow: 2px 2px brown;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+
+}
+.katya {
+  background:url("jpeg/dog.jpg") bottom;
+  padding: 10px;
+  font-family: Georgia;
+  text-shadow: 1px 1px black;
+  color: cyan;
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+
+}
+.two {
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
+
+}
+.top {
+  text-align: left;
+  background: gold;
+  font-size: 20px;
+  padding: 5px;
+  font-size: 30px;
+  color: black;
+  text-shadow: 1px 1px white;
+
+}
+.top1 {
+  text-align: left;
+  background: lightgreen;
+  font-size: 20px;
+  padding: 5px;
+  font-size: 30px;
+  color: black;
+  text-shadow: 1px 1px white;
+
+}
+.top2 {
+  text-align: left;
+  background: brown;
+  font-size: 20px;
+  padding: 5px;
+  font-size: 30px;
+  color: white;
+  text-shadow: 1px 1px black;
+
+}
+.top3 {
+  text-align: left;
+  background: salmon;
+  font-size: 20px;
+  padding: 5px;
+  font-size: 30px;
+  color: cyan;
+  text-shadow: 1px 1px black;
+
+}
+li:hover {
+  color: red;
+  text-decoration: none;
+}
+li {
+  padding: 10px;
+}
+.info {
+  padding-left: 20px;
+  font-family: Georgia;
+  font-size: 20px;
+}
+.contacts {
+  color: black;
+  padding-right: 150px;
+
+}
+background: url("jpeg/Маша.jpg") no-repeat center;
